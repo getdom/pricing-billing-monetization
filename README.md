@@ -28,7 +28,7 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [Thread - 12 pricing psychology tips to help you sell more stuff.](https://twitter.com/KateBour/status/1544647157579481091)
 - [Thread - Gain revenue without changing your product, with pricing](https://twitter.com/Denis__Shatalin/status/1572239924945997825)
 - [Thread - 7 ways to make your price look like a steal](https://twitter.com/samanthalcc/status/1572207263447916544)
-- |Thread - About Pricing Relativity](https://twitter.com/KateBour/status/1572931805476524034)
+- [Thread - About Pricing Relativity](https://twitter.com/KateBour/status/1572931805476524034)
 
 ## Story
 
