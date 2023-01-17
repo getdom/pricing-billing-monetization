@@ -10,6 +10,7 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [Pricing your product with Sequoia](https://articles.sequoiacap.com/pricing-your-product)
 - [Principles of pricing](https://www.principlesofpricing.com/)
 - [Pricing your SaaS product](https://www.lennysnewsletter.com/p/saas-pricing-strategy)
+- [Bottom Up Pricing & Packaging: Let the User Journey Be Your Guide](https://a16z.com/2021/03/11/bottom-up-pricing-packaging-let-the-user-journey-be-your-guide/)
 
 ## Monetization
 - [What is the difference between Pricing and Monetization?](https://www.pricinginnovations.com/single-post/pricing-vs-monetization)
