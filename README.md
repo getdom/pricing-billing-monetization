@@ -14,6 +14,8 @@ Would you like to participate? Feel free to make a pull request and share your b
 
 ## Monetization
 - [What is the difference between Pricing and Monetization?](https://www.pricinginnovations.com/single-post/pricing-vs-monetization)
+- [Matching Price to Value—3 Lessons in Monetization](https://www.menlovc.com/blog/matching-price-to-value-3-lessons-in-monetization)
+
 
 ## Pricing
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=2 -->
@@ -22,7 +24,6 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [Conducting Pricing Research & Experimentation](https://www.menlovc.com/blog/conducting-pricing-research-and-experimentation) - Startups should systematically research & experiment with pricing to understand customer demand & willingness to pay. This helps them capture the value of their product & service and not leave money on the table.
 - [Freemium vs. trial](https://www.lennysnewsletter.com/p/freemium-trials-free)
 - [Is There a No Man's Land in SaaS ACVs?](https://tomtunguz.com/no-mans-land-saas/)
-- [Matching Price to Value—3 Lessons in Monetization](https://www.menlovc.com/blog/matching-price-to-value-3-lessons-in-monetization)
 - [The Car Bundle](https://danco.substack.com/p/the-car-bundle?utm_source=pocket_reader)
 - [The Obscure Economic Idea Behind SaaS Pricing Challenges](https://tomtunguz.com/obscure-economic-concept-behind-saas-pricing-challenges)
 - [Calculating Customer ROI](https://bowerycap.com/blog/sales/customer-roi-for-saas-sales)
