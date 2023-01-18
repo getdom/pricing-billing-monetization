@@ -29,6 +29,10 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [It's Price before product](https://review.firstround.com/its-price-before-product-period)
 - [How To Monetize Products: Optimizing Your Pricing Strategy As A Growth Lever](https://www.forbes.com/sites/rebeccasadwick/2020/05/18/pricing/?sh=e5a813f1c49e)
 
+## RevOps and Pricing
+- [Predictable Revenue Forecasting is Possible with Usage-Based Pricing](https://openviewpartners.com/blog/predictable-revenue-forecasting-usage-based-pricing/)
+
+
 ## Twitter Thread
 
 - [Thread - 12 pricing psychology tips to help you sell more stuff.](https://twitter.com/KateBour/status/1544647157579481091)
