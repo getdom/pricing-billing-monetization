@@ -33,6 +33,8 @@ Would you like to participate? Feel free to make a pull request and share your b
 
 ## RevOps and Pricing
 - [Predictable Revenue Forecasting is Possible with Usage-Based Pricing](https://openviewpartners.com/blog/predictable-revenue-forecasting-usage-based-pricing/)
+- [Tackling the Operational Complexities of Usage-Based Pricing](https://www.revopscoop.com/post/tackling-the-operational-complexities-of-usage-based-pricing)
+- [Consumption Forecasting](https://www.clari.com/blog/Consumption-Forecasting/)
 
 
 ## Twitter Thread
@@ -46,3 +48,8 @@ Would you like to participate? Feel free to make a pull request and share your b
 
 - [The Hidden World of Pricing: Uber, Trulia, Etsy, Superhuman & More](https://www.nfx.com/post/the-hidden-world-of-pricing)
 - [How Pay-as-you-go Pricing strategy drives massive revenue for AWS, Stripe, and Mailchimp?](https://navdeepyadav.medium.com/how-pay-as-you-go-pricing-strategy-drives-massive-revenue-for-aws-stripe-and-mailchimp-7fee943ca936)
+- [How Usage Based Pricing fueled two IPOs in 2020](https://www.insightpartners.com/ideas/how-usage-based-pricing-fueled-two-2020-ipos/)
+- [Courier's CEO Pros and Cons on Usage Based Pricing](https://www.bvp.com/atlas/five-pros-and-four-cons-of-usage-based-pricing-and-why-it-was-a-no-brainer-for-courier-s-ceo)
+
+
+- []()
