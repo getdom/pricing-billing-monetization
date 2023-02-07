@@ -20,9 +20,9 @@ Would you like to participate? Feel free to make a pull request and share your b
 
 ## Pricing
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=2 -->
-- [A Standard Pricing Model for Open Core](https://thenewstack.io/a-standard-pricing-model-for-open-core/) //- Open core allows businesses to monetize features while contributing to open source projects. Buyer-based open core places features in open source or proprietary depending on who gets the most value. This model balances the need for businesses to sustain themselves and the need to contribute to open source.
-- [A Rake Too Far: Optimal Platform Pricing Strategy](https://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/) - Platform companies must be careful not to charge an excessive rake that could undermine the point of having a platform. High rakes create friction and can lead to unsustainable business models. Low rakes provide better cash flow terms, more selection for consumers, and a competitive marketplace. Platforms must balance rakes to ensure sustainability.
-- [Conducting Pricing Research & Experimentation](https://www.menlovc.com/blog/conducting-pricing-research-and-experimentation) - Startups should systematically research & experiment with pricing to understand customer demand & willingness to pay. This helps them capture the value of their product & service and not leave money on the table.
+- [A Standard Pricing Model for Open Core](https://thenewstack.io/a-standard-pricing-model-for-open-core/)
+- [A Rake Too Far: Optimal Platform Pricing Strategy](https://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/)
+- [Conducting Pricing Research & Experimentation](https://www.menlovc.com/blog/conducting-pricing-research-and-experimentation)
 - [Freemium vs. trial](https://www.lennysnewsletter.com/p/freemium-trials-free)
 - [Is There a No Man's Land in SaaS ACVs?](https://tomtunguz.com/no-mans-land-saas/)
 - [The Car Bundle](https://danco.substack.com/p/the-car-bundle?utm_source=pocket_reader)
