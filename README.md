@@ -1,9 +1,10 @@
 
 <!--lint disable awesome-heading-->
 # Pricing-billing-and-Monetization
-Ressources to help you build your monetization model as a Whole.
+Ressources to help you build your monetization model, billing engine and Pricing.
 
-Hey mates, this repo aims to create a one-stop resource for creating your monetization and cover everything from Pricing, Billing and Monetization as a beginner to more advanced thinking! 
+Hey, this repo aims to create a one-stop resource to help you create your monetization and cover everything from Pricing, Billing and Monetization as a beginner to more advanced thinking! 
+
 Would you like to participate? Feel free to make a pull request and share your best resources! 
 
 ## Pricing Basics
@@ -44,7 +45,7 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [Thread - 7 ways to make your price look like a steal](https://twitter.com/samanthalcc/status/1572207263447916544)
 - [Thread - About Pricing Relativity](https://twitter.com/KateBour/status/1572931805476524034)
 
-## Story
+## Stories
 
 - [The Hidden World of Pricing: Uber, Trulia, Etsy, Superhuman & More](https://www.nfx.com/post/the-hidden-world-of-pricing)
 - [How Pay-as-you-go Pricing strategy drives massive revenue for AWS, Stripe, and Mailchimp?](https://navdeepyadav.medium.com/how-pay-as-you-go-pricing-strategy-drives-massive-revenue-for-aws-stripe-and-mailchimp-7fee943ca936)
