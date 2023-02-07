@@ -38,6 +38,10 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [Consumption Forecasting](https://www.clari.com/blog/Consumption-Forecasting/)
 
 
+## Interviews
+- [How to run your SaaS pricing project](https://wraptext.equals.app/how-to-run-your-saas-pricing-project/)
+- [Elena Verna on monetization, why it differs from pricing, and why it’s part of your PMF](https://www.getlago.com/blog/elena-verna-on-monetization)
+
 ## Twitter Thread
 
 - [Thread - 12 pricing psychology tips to help you sell more stuff.](https://twitter.com/KateBour/status/1544647157579481091)
