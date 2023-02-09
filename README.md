@@ -17,16 +17,17 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [What is the difference between Pricing and Monetization?](https://www.pricinginnovations.com/single-post/pricing-vs-monetization)
 - [Matching Price to Value—3 Lessons in Monetization](https://www.menlovc.com/blog/matching-price-to-value-3-lessons-in-monetization)
 
+## On Usage Based Pricing
+- [Predictable Revenue Forecasting is Possible with Usage-Based Pricing](https://openviewpartners.com/blog/predictable-revenue-forecasting-usage-based-pricing/)
+- [Tackling the Operational Complexities of Usage-Based Pricing](https://www.revopscoop.com/post/tackling-the-operational-complexities-of-usage-based-pricing)
+- [Consumption Forecasting](https://www.clari.com/blog/Consumption-Forecasting/)
+- (https://a16z.com/2022/06/24/in-defense-of-pay-as-you-go/)
+
 ## Pricing Open Source
 - [A Standard Pricing Model for Open Core](https://thenewstack.io/a-standard-pricing-model-for-open-core/)
 
 ## Pricing Research
 - [Conducting Pricing Research & Experimentation](https://www.menlovc.com/blog/conducting-pricing-research-and-experimentation)
-
-## RevOps and Pricing
-- [Predictable Revenue Forecasting is Possible with Usage-Based Pricing](https://openviewpartners.com/blog/predictable-revenue-forecasting-usage-based-pricing/)
-- [Tackling the Operational Complexities of Usage-Based Pricing](https://www.revopscoop.com/post/tackling-the-operational-complexities-of-usage-based-pricing)
-- [Consumption Forecasting](https://www.clari.com/blog/Consumption-Forecasting/)
 
 ## Free Plans
 - [Freemium vs. trial](https://www.lennysnewsletter.com/p/freemium-trials-free)
