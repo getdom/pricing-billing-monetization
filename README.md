@@ -21,7 +21,7 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [Predictable Revenue Forecasting is Possible with Usage-Based Pricing](https://openviewpartners.com/blog/predictable-revenue-forecasting-usage-based-pricing/)
 - [Tackling the Operational Complexities of Usage-Based Pricing](https://www.revopscoop.com/post/tackling-the-operational-complexities-of-usage-based-pricing)
 - [Consumption Forecasting](https://www.clari.com/blog/Consumption-Forecasting/)
-- (https://a16z.com/2022/06/24/in-defense-of-pay-as-you-go/)
+- [In defence of Pay-as-you-Go](https://a16z.com/2022/06/24/in-defense-of-pay-as-you-go/)
 
 ## Pricing Open Source
 - [A Standard Pricing Model for Open Core](https://thenewstack.io/a-standard-pricing-model-for-open-core/)
