@@ -18,15 +18,21 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [Matching Price to Value—3 Lessons in Monetization](https://www.menlovc.com/blog/matching-price-to-value-3-lessons-in-monetization)
 - [Grow Revenue with SaaS Monetization](https://www5.thalesgroup.com/ppc/sentinel-saas-monetization)
 
+## Pricing Models
+  #### Overview
+  - [Guide to SaaS Pricing Models and Strategies](https://saasholic.com/guide-to-saas-pricing-models-and-strategies-2f43a5438cb3/)
+  - [SaaS pricing models 101 — the ultimate guide to picking the best pricing strategy for your product](https://www.rst.software/blog/saas-pricing-models-101-the-ultimate-guide-to-picking-the-best-pricing-strategy-for-your-product)
+  - [Pricing a SaaS: Models, Strategies & Hacks](https://www.saastitute.com/blog/saas-pricing-models-and-strategies)
+  #### Details
+  - [Per Seat or Per User](https://tomtunguz.com/seat-vs-usage-based-pricing/)
+  - [Flat Rate](https://www.profitwell.com/recur/all/flat-rate-pricing)
+  - [Usage-Based](https://offers.openviewpartners.com/usage-based-pricing-playbook)
+
 ## On Usage Based Pricing
 - [Predictable Revenue Forecasting is Possible with Usage-Based Pricing](https://openviewpartners.com/blog/predictable-revenue-forecasting-usage-based-pricing/)
 - [Tackling the Operational Complexities of Usage-Based Pricing](https://www.revopscoop.com/post/tackling-the-operational-complexities-of-usage-based-pricing)
 - [Consumption Forecasting](https://www.clari.com/blog/Consumption-Forecasting/)
 - [In defence of Pay-as-you-Go](https://a16z.com/2022/06/24/in-defense-of-pay-as-you-go/)
-- [Usage-Based-Pricing Playbook](https://offers.openviewpartners.com/usage-based-pricing-playbook)
-- [Usage-Based Pricing Examples for SaaS Companies](https://billingplatform.com/blog/usage-based-pricing-examples)
-- [Is usage-based pricing the right model for SaaS businesses?](https://www.profitwell.com/recur/all/usage-based-pricing/)
-- [Usage-Based Pricing (UBP)](https://dealhub.io/glossary/usage-based-pricing/)
 - [Five pros and four cons of usage-based pricing—and why it was a no-brainer for Courier’s CEO](https://www.bvp.com/atlas/five-pros-and-four-cons-of-usage-based-pricing-and-why-it-was-a-no-brainer-for-courier-s-ceo)
 - [The rise of usage-based commercial models in SaaS](https://www.kearney.com/technology/article/-/insights/the-rise-of-usage-based-commercial-models-in-saas)
 - [Usage-Based Pricing: What SaaS Companies Need to Know](https://baremetrics.com/blog/usage-based-pricing)
@@ -36,7 +42,7 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [Linear, volumetric, or bundling: Which type of usage-based pricing is right for you?](https://www.bvp.com/atlas/linear-volumetric-or-bundling-which-type-of-usage-based-pricing-is-right-for-you)
 
 ## Freemium and Free Trial
-  ### How to Choose?
+  #### How to Choose?
   - [Freemium vs. trial](https://www.lennysnewsletter.com/p/freemium-trials-free)
   - [Everything You Need to Know About Freemium Pricing](https://openviewpartners.com/blog/freemium-pricing-guide/)
   - [Freemium Strategy in SaaS - Notes and Models for making pricing decisions](https://www.saastitute.com/blog/freemium-saas-pricing-models)
@@ -46,7 +52,7 @@ Would you like to participate? Feel free to make a pull request and share your b
   - [The SaaS Freemium Model: Great for Acquisition, Not for Revenue](https://www.profitwell.com/recur/all/state-of-freemium)
   - [Is the Freemium Business Model Right for Your SaaS?](https://userpilot.com/blog/freemium-saas/)
   - [SaaS Pricing: When to Use a Freemium Model](https://www.lightercapital.com/blog/when-to-use-a-freemium-offering-for-saas)
-  ### Exemples
+  #### Examples
   - [Inside Retool's freeplan](https://kylepoyar.substack.com/p/inside-retools-new-free-plan)
   - [Our Big Free Plan Mistake](https://blog.hubstaff.com/saas-pricing-free-plan-mistake/)
   - [What is freemium pricing & why is it a winning model for SaaS businesses?](https://www.paddle.com/blog/what-is-freemium-for-saas)
