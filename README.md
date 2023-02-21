@@ -53,15 +53,15 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [FREEMIUM PRICING: EXAMPLES, MODELS, AND STRATEGIES TO CONSIDER FROM THE GET GO](https://highalpha.com/freemium-pricing-examples-and-models/)
 
 ## Managing Price Change
--[SaaS Pricing: Lessons from 4 pricing changes](https://canny.io/blog/saas-pricing-lessons/)
--[SaaS Pricing Guide: When & How to Raise Prices Without Losing Customers](https://openviewpartners.com/blog/saas-pricing-guide-raise-prices-without-losing-customers/)
--[Price Increase: How to Do a SaaS Pricing Change in 8 Steps](https://www.growthramp.io/articles/price-increase)
--[When and How Often to Raise SaaS Prices](https://www.lightercapital.com/blog/when-and-how-often-to-raise-saas-prices)
--[SaaS Price Increase: How to Raise Prices Without Upsetting Customers](https://baremetrics.com/blog/saas-price-increase-how-to-raise-prices-without-upsetting-customers)
--[5 Reasons Not To Raise Prices on Existing Customers. And 2 Better Ways to Do It Anyway.](https://www.saastr.com/5-reasons-not-to-raise-prices-on-existing-customers-and-2-better-ways-to-do-it-anyway/)
--[When and How to Raise Prices for SaaS Products￼](https://comfi.app/blog/saas-price-increase)
--[B2B SaaS pricing models: No time like the present to raise prices](https://www.t2d3.pro/learn/saas-raising-pricing-strategy)
--[How to change your SaaS product pricing](https://www.priceintelligently.com/blog/changing-saas-pricing)
+- [SaaS Pricing: Lessons from 4 pricing changes](https://canny.io/blog/saas-pricing-lessons/)
+- [SaaS Pricing Guide: When & How to Raise Prices Without Losing Customers](https://openviewpartners.com/blog/saas-pricing-guide-raise-prices-without-losing-customers/)
+- [Price Increase: How to Do a SaaS Pricing Change in 8 Steps](https://www.growthramp.io/articles/price-increase)
+- [When and How Often to Raise SaaS Prices](https://www.lightercapital.com/blog/when-and-how-often-to-raise-saas-prices)
+- [SaaS Price Increase: How to Raise Prices Without Upsetting Customers](https://baremetrics.com/blog/saas-price-increase-how-to-raise-prices-without-upsetting-customers)
+- [5 Reasons Not To Raise Prices on Existing Customers. And 2 Better Ways to Do It Anyway.](https://www.saastr.com/5-reasons-not-to-raise-prices-on-existing-customers-and-2-better-ways-to-do-it-anyway/)
+- [When and How to Raise Prices for SaaS Products￼](https://comfi.app/blog/saas-price-increase)
+- [B2B SaaS pricing models: No time like the present to raise prices](https://www.t2d3.pro/learn/saas-raising-pricing-strategy)
+- [How to change your SaaS product pricing](https://www.priceintelligently.com/blog/changing-saas-pricing)
 
 ## Interviews
 - [How to run your SaaS pricing project](https://wraptext.equals.app/how-to-run-your-saas-pricing-project/)
