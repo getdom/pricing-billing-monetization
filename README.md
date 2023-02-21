@@ -36,21 +36,22 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [Linear, volumetric, or bundling: Which type of usage-based pricing is right for you?](https://www.bvp.com/atlas/linear-volumetric-or-bundling-which-type-of-usage-based-pricing-is-right-for-you)
 
 ## Freemium and Free Trial
-- [Freemium vs. trial](https://www.lennysnewsletter.com/p/freemium-trials-free)
-- [Inside Retool's freeplan](https://kylepoyar.substack.com/p/inside-retools-new-free-plan)
-- [Our Big Free Plan Mistake](https://blog.hubstaff.com/saas-pricing-free-plan-mistake/)
-- [Everything You Need to Know About Freemium Pricing](https://openviewpartners.com/blog/freemium-pricing-guide/)
-- [Freemium Strategy in SaaS - Notes and Models for making pricing decisions](https://www.saastitute.com/blog/freemium-saas-pricing-models)
-- [Guide: Maximizing freemium growth with pricing](https://almanac.io/docs/guide-maximizing-freemium-growth-with-pricing-f123383ca150b5b6aa65d5a2a31782d1)
-- [What is freemium pricing & why is it a winning model for SaaS businesses?](https://www.paddle.com/blog/what-is-freemium-for-saas)
-- [SaaS Pricing: When to Use a Freemium Model](https://www.lightercapital.com/blog/when-to-use-a-freemium-offering-for-saas)
-- [3 Famous Freemium SaaS Strategies (And Why They’re So Good)](https://openviewpartners.com/blog/freemium-model-examples/)
-- [Is the Freemium Business Model Right for Your SaaS?](https://userpilot.com/blog/freemium-saas/)
-- [5 Freemium SaaS Companies & The Keys to Their Success](https://www.toplyne.io/blog/freemium-saas-companies)
-- [The SaaS Freemium Model: Great for Acquisition, Not for Revenue](https://www.profitwell.com/recur/all/state-of-freemium)
-- [Freemium Pricing: Customer Acquisition Hero or Revenue Killer?](https://www.eleken.co/blog-posts/freemium-pricing-customer-acquisition-hero-or-revenue-killer)
-- [Free Trial vs Freemium: Breaking down the Pros & Cons](https://www.lemonsqueezy.com/blog/free-trial-vs-freemium)
-- [FREEMIUM PRICING: EXAMPLES, MODELS, AND STRATEGIES TO CONSIDER FROM THE GET GO](https://highalpha.com/freemium-pricing-examples-and-models/)
+  ### How to Choose?
+  - [Freemium vs. trial](https://www.lennysnewsletter.com/p/freemium-trials-free)
+  - [Everything You Need to Know About Freemium Pricing](https://openviewpartners.com/blog/freemium-pricing-guide/)
+  - [Freemium Strategy in SaaS - Notes and Models for making pricing decisions](https://www.saastitute.com/blog/freemium-saas-pricing-models)
+  - [Guide: Maximizing freemium growth with pricing](https://almanac.io/docs/guide-maximizing-freemium-growth-with-pricing-f123383ca150b5b6aa65d5a2a31782d1)
+  - [Free Trial vs Freemium: Breaking down the Pros & Cons](https://www.lemonsqueezy.com/blog/free-trial-vs-freemium)
+  - [Freemium Pricing: Customer Acquisition Hero or Revenue Killer?](https://www.eleken.co/blog-posts/freemium-pricing-customer-acquisition-hero-or-revenue-killer)
+  - [The SaaS Freemium Model: Great for Acquisition, Not for Revenue](https://www.profitwell.com/recur/all/state-of-freemium)
+  - [Is the Freemium Business Model Right for Your SaaS?](https://userpilot.com/blog/freemium-saas/)
+  - [SaaS Pricing: When to Use a Freemium Model](https://www.lightercapital.com/blog/when-to-use-a-freemium-offering-for-saas)
+  ### Exemples
+  - [Inside Retool's freeplan](https://kylepoyar.substack.com/p/inside-retools-new-free-plan)
+  - [Our Big Free Plan Mistake](https://blog.hubstaff.com/saas-pricing-free-plan-mistake/)
+  - [What is freemium pricing & why is it a winning model for SaaS businesses?](https://www.paddle.com/blog/what-is-freemium-for-saas)
+  - [3 Famous Freemium SaaS Strategies (And Why They’re So Good)](https://openviewpartners.com/blog/freemium-model-examples/)
+  - [5 Freemium SaaS Companies & The Keys to Their Success](https://www.toplyne.io/blog/freemium-saas-companies)
 
 ## Managing Price Change
 - [SaaS Pricing: Lessons from 4 pricing changes](https://canny.io/blog/saas-pricing-lessons/)
