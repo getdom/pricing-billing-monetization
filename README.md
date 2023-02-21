@@ -16,22 +16,52 @@ Would you like to participate? Feel free to make a pull request and share your b
 ## Monetization
 - [What is the difference between Pricing and Monetization?](https://www.pricinginnovations.com/single-post/pricing-vs-monetization)
 - [Matching Price to Value—3 Lessons in Monetization](https://www.menlovc.com/blog/matching-price-to-value-3-lessons-in-monetization)
+- [Grow Revenue with SaaS Monetization](https://www5.thalesgroup.com/ppc/sentinel-saas-monetization)
 
 ## On Usage Based Pricing
 - [Predictable Revenue Forecasting is Possible with Usage-Based Pricing](https://openviewpartners.com/blog/predictable-revenue-forecasting-usage-based-pricing/)
 - [Tackling the Operational Complexities of Usage-Based Pricing](https://www.revopscoop.com/post/tackling-the-operational-complexities-of-usage-based-pricing)
 - [Consumption Forecasting](https://www.clari.com/blog/Consumption-Forecasting/)
 - [In defence of Pay-as-you-Go](https://a16z.com/2022/06/24/in-defense-of-pay-as-you-go/)
+- [Usage-Based-Pricing Playbook](https://offers.openviewpartners.com/usage-based-pricing-playbook)
+- [Usage-Based Pricing Examples for SaaS Companies](https://billingplatform.com/blog/usage-based-pricing-examples)
+- [Is usage-based pricing the right model for SaaS businesses?](https://www.profitwell.com/recur/all/usage-based-pricing/)
+- [Usage-Based Pricing (UBP)](https://dealhub.io/glossary/usage-based-pricing/)
+- [Five pros and four cons of usage-based pricing—and why it was a no-brainer for Courier’s CEO](https://www.bvp.com/atlas/five-pros-and-four-cons-of-usage-based-pricing-and-why-it-was-a-no-brainer-for-courier-s-ceo)
+- [The rise of usage-based commercial models in SaaS](https://www.kearney.com/technology/article/-/insights/the-rise-of-usage-based-commercial-models-in-saas)
+- [Usage-Based Pricing: What SaaS Companies Need to Know](https://baremetrics.com/blog/usage-based-pricing)
+- [How Usage-Based Pricing Benefits SaaS Providers and Their Customers](https://blog.2checkout.com/the-importance-of-usage-based-pricing-in-saas/)
+- [The Benefits of a Usage-Based Pricing Model](https://saasoptics.com/blog/benefits-of-a-usage-based-pricing-model/)
+- [Usage-based pricing benchmarks and best practices](https://www.maxio.com/resources/usage-based-pricing-report)
+- [Linear, volumetric, or bundling: Which type of usage-based pricing is right for you?](https://www.bvp.com/atlas/linear-volumetric-or-bundling-which-type-of-usage-based-pricing-is-right-for-you)
 
-## Pricing Open Source
-- [A Standard Pricing Model for Open Core](https://thenewstack.io/a-standard-pricing-model-for-open-core/)
-
-## Pricing Research
-- [Conducting Pricing Research & Experimentation](https://www.menlovc.com/blog/conducting-pricing-research-and-experimentation)
-
-## Free Plans
+## Freemium and Free Trial
 - [Freemium vs. trial](https://www.lennysnewsletter.com/p/freemium-trials-free)
 - [Inside Retool's freeplan](https://kylepoyar.substack.com/p/inside-retools-new-free-plan)
+- [Our Big Free Plan Mistake](https://blog.hubstaff.com/saas-pricing-free-plan-mistake/)
+- [Everything You Need to Know About Freemium Pricing](https://openviewpartners.com/blog/freemium-pricing-guide/)
+- [Freemium Strategy in SaaS - Notes and Models for making pricing decisions](https://www.saastitute.com/blog/freemium-saas-pricing-models)
+- [Guide: Maximizing freemium growth with pricing](https://almanac.io/docs/guide-maximizing-freemium-growth-with-pricing-f123383ca150b5b6aa65d5a2a31782d1)
+- [What is freemium pricing & why is it a winning model for SaaS businesses?](https://www.paddle.com/blog/what-is-freemium-for-saas)
+- [SaaS Pricing: When to Use a Freemium Model](https://www.lightercapital.com/blog/when-to-use-a-freemium-offering-for-saas)
+- [3 Famous Freemium SaaS Strategies (And Why They’re So Good)](https://openviewpartners.com/blog/freemium-model-examples/)
+- [Is the Freemium Business Model Right for Your SaaS?](https://userpilot.com/blog/freemium-saas/)
+- [5 Freemium SaaS Companies & The Keys to Their Success](https://www.toplyne.io/blog/freemium-saas-companies)
+- [The SaaS Freemium Model: Great for Acquisition, Not for Revenue](https://www.profitwell.com/recur/all/state-of-freemium)
+- [Freemium Pricing: Customer Acquisition Hero or Revenue Killer?](https://www.eleken.co/blog-posts/freemium-pricing-customer-acquisition-hero-or-revenue-killer)
+- [Free Trial vs Freemium: Breaking down the Pros & Cons](https://www.lemonsqueezy.com/blog/free-trial-vs-freemium)
+- [FREEMIUM PRICING: EXAMPLES, MODELS, AND STRATEGIES TO CONSIDER FROM THE GET GO](https://highalpha.com/freemium-pricing-examples-and-models/)
+
+## Managing Price Change
+-[SaaS Pricing: Lessons from 4 pricing changes](https://canny.io/blog/saas-pricing-lessons/)
+-[SaaS Pricing Guide: When & How to Raise Prices Without Losing Customers](https://openviewpartners.com/blog/saas-pricing-guide-raise-prices-without-losing-customers/)
+-[Price Increase: How to Do a SaaS Pricing Change in 8 Steps](https://www.growthramp.io/articles/price-increase)
+-[When and How Often to Raise SaaS Prices](https://www.lightercapital.com/blog/when-and-how-often-to-raise-saas-prices)
+-[SaaS Price Increase: How to Raise Prices Without Upsetting Customers](https://baremetrics.com/blog/saas-price-increase-how-to-raise-prices-without-upsetting-customers)
+-[5 Reasons Not To Raise Prices on Existing Customers. And 2 Better Ways to Do It Anyway.](https://www.saastr.com/5-reasons-not-to-raise-prices-on-existing-customers-and-2-better-ways-to-do-it-anyway/)
+-[When and How to Raise Prices for SaaS Products￼](https://comfi.app/blog/saas-price-increase)
+-[B2B SaaS pricing models: No time like the present to raise prices](https://www.t2d3.pro/learn/saas-raising-pricing-strategy)
+-[How to change your SaaS product pricing](https://www.priceintelligently.com/blog/changing-saas-pricing)
 
 ## Interviews
 - [How to run your SaaS pricing project](https://wraptext.equals.app/how-to-run-your-saas-pricing-project/)
@@ -49,6 +79,7 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [How Usage Based Pricing fueled two IPOs in 2020](https://www.insightpartners.com/ideas/how-usage-based-pricing-fueled-two-2020-ipos/)
 - [Courier's CEO Pros and Cons on Usage Based Pricing](https://www.bvp.com/atlas/five-pros-and-four-cons-of-usage-based-pricing-and-why-it-was-a-no-brainer-for-courier-s-ceo)
 - [Takeways on Notion's new pricing plan](https://goodbetterbest.substack.com/p/3-takeaways-from-notions-pricing)
+- [How Livestorm went from License based to Usage based pricing](https://life.livestorm.co/how-livestorm-went-from-a-license-based-pricing-model-to-a-usage-based-pricing-model-6970e6f43529)
 
 ## Others on pricing
 - [A Rake Too Far: Optimal Platform Pricing Strategy](https://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/)
@@ -60,5 +91,9 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [How To Monetize Products: Optimizing Your Pricing Strategy As A Growth Lever](https://www.forbes.com/sites/rebeccasadwick/2020/05/18/pricing/?sh=e5a813f1c49e)
 - [How to design a pricing page](https://arnon.dk/design-your-pricing-and-tools-so-you-can-adapt-it-later/)
 
+## Pricing Open Source
+- [A Standard Pricing Model for Open Core](https://thenewstack.io/a-standard-pricing-model-for-open-core/)
 
+## Pricing Research
+- [Conducting Pricing Research & Experimentation](https://www.menlovc.com/blog/conducting-pricing-research-and-experimentation)
 []()
