@@ -12,11 +12,13 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [Principles of pricing](https://www.principlesofpricing.com/)
 - [Pricing your SaaS product](https://www.lennysnewsletter.com/p/saas-pricing-strategy)
 - [Bottom Up Pricing & Packaging: Let the User Journey Be Your Guide](https://a16z.com/2021/03/11/bottom-up-pricing-packaging-let-the-user-journey-be-your-guide/)
+- [Startup Pricing 101 with YC](https://www.ycombinator.com/library/6h-startup-pricing-101)
 
 ## Monetization
 - [What is the difference between Pricing and Monetization?](https://www.pricinginnovations.com/single-post/pricing-vs-monetization)
 - [Matching Price to Value—3 Lessons in Monetization](https://www.menlovc.com/blog/matching-price-to-value-3-lessons-in-monetization)
 - [Grow Revenue with SaaS Monetization](https://www5.thalesgroup.com/ppc/sentinel-saas-monetization)
+- [Startup Business Models and Pricing with YC](https://www.youtube.com/watch?v=oWZbWzAyHAE)
 
 ## Pricing Models
   #### Overview
