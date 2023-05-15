@@ -1,9 +1,9 @@
 
 <!--lint disable awesome-heading-->
 # Pricing-billing-and-Monetization
-Ressources to help you build your monetization model, billing engine and Pricing.
+Resources to help you build your monetization, billing and pricing stack.
 
-Hey, this repo aims to create a one-stop resource to help you create your monetization and cover everything from Pricing, Billing and Monetization as a beginner to more advanced thinking! 
+Hey, this repo aims to create a one-stop resource to iterate on Pricing, Billing, and Monetization. 
 
 Would you like to participate? Feel free to make a pull request and share your best resources! 
 
@@ -30,7 +30,7 @@ Would you like to participate? Feel free to make a pull request and share your b
   - [Flat Rate](https://www.profitwell.com/recur/all/flat-rate-pricing)
   - [Usage-Based](https://offers.openviewpartners.com/usage-based-pricing-playbook)
 
-## On Usage Based Pricing
+## Focus on Usage Based Pricing
 - [Predictable Revenue Forecasting is Possible with Usage-Based Pricing](https://openviewpartners.com/blog/predictable-revenue-forecasting-usage-based-pricing/)
 - [Tackling the Operational Complexities of Usage-Based Pricing](https://www.revopscoop.com/post/tackling-the-operational-complexities-of-usage-based-pricing)
 - [Consumption Forecasting](https://www.clari.com/blog/Consumption-Forecasting/)
@@ -42,6 +42,12 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [The Benefits of a Usage-Based Pricing Model](https://saasoptics.com/blog/benefits-of-a-usage-based-pricing-model/)
 - [Usage-based pricing benchmarks and best practices](https://www.maxio.com/resources/usage-based-pricing-report)
 - [Linear, volumetric, or bundling: Which type of usage-based pricing is right for you?](https://www.bvp.com/atlas/linear-volumetric-or-bundling-which-type-of-usage-based-pricing-is-right-for-you)
+
+    #### Sales Commissions in a Usage Based Pricing World
+ - [Going Usage-Based? It’s Time to Rethink your Sales Comp](https://openviewpartners.com/blog/usage-based-pricing-and-sales-compensation-plans/)
+ - [Sales Compensation in a Consumption Pricing World, by Snowflake VP Sales Strategt & Planning](https://www.snowflake.com/blog/sales-compensation-in-a-consumption-pricing-world/)
+ - [Sales Compensation, UBP edition by Viola Group](https://www.viola-group.com/violanotes/sales-compensation-ubp-edition/)
+
 
 ## Freemium and Free Trial
   #### How to Choose?
@@ -61,7 +67,7 @@ Would you like to participate? Feel free to make a pull request and share your b
   - [3 Famous Freemium SaaS Strategies (And Why They’re So Good)](https://openviewpartners.com/blog/freemium-model-examples/)
   - [5 Freemium SaaS Companies & The Keys to Their Success](https://www.toplyne.io/blog/freemium-saas-companies)
 
-## Managing Price Change
+## Managing Price Changes
 - [SaaS Pricing: Lessons from 4 pricing changes](https://canny.io/blog/saas-pricing-lessons/)
 - [SaaS Pricing Guide: When & How to Raise Prices Without Losing Customers](https://openviewpartners.com/blog/saas-pricing-guide-raise-prices-without-losing-customers/)
 - [Price Increase: How to Do a SaaS Pricing Change in 8 Steps](https://www.growthramp.io/articles/price-increase)
@@ -76,7 +82,7 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [How to run your SaaS pricing project](https://wraptext.equals.app/how-to-run-your-saas-pricing-project/)
 - [Elena Verna on monetization, why it differs from pricing, and why it’s part of your PMF](https://www.getlago.com/blog/elena-verna-on-monetization)
 
-## Twitter Thread
+## Twitter Threads
 - [Thread - 12 pricing psychology tips to help you sell more stuff.](https://twitter.com/KateBour/status/1544647157579481091)
 - [Thread - Gain revenue without changing your product, with pricing](https://twitter.com/Denis__Shatalin/status/1572239924945997825)
 - [Thread - 7 ways to make your price look like a steal](https://twitter.com/samanthalcc/status/1572207263447916544)
@@ -90,7 +96,7 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [Takeways on Notion's new pricing plan](https://goodbetterbest.substack.com/p/3-takeaways-from-notions-pricing)
 - [How Livestorm went from License based to Usage based pricing](https://life.livestorm.co/how-livestorm-went-from-a-license-based-pricing-model-to-a-usage-based-pricing-model-6970e6f43529)
 
-## Others on pricing
+## Miscelanneous
 - [A Rake Too Far: Optimal Platform Pricing Strategy](https://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/)
 - [Is There a No Man's Land in SaaS ACVs?](https://tomtunguz.com/no-mans-land-saas/)
 - [The Car Bundle](https://danco.substack.com/p/the-car-bundle?utm_source=pocket_reader)
