@@ -45,7 +45,7 @@ Would you like to participate? Feel free to make a pull request and share your b
 
     #### Sales Commissions in a Usage Based Pricing World
  - [Going Usage-Based? It’s Time to Rethink your Sales Comp](https://openviewpartners.com/blog/usage-based-pricing-and-sales-compensation-plans/)
- - [Sales Compensation in a Consumption Pricing World, by Snowflake VP Sales Strategt & Planning](https://www.snowflake.com/blog/sales-compensation-in-a-consumption-pricing-world/)
+ - [Sales Compensation in a Consumption Pricing World, by Snowflake VP Sales Strategy & Planning](https://www.snowflake.com/blog/sales-compensation-in-a-consumption-pricing-world/)
  - [Sales Compensation, UBP edition by Viola Group](https://www.viola-group.com/violanotes/sales-compensation-ubp-edition/)
 
 
