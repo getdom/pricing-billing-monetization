@@ -107,6 +107,7 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [How to design a pricing page](https://arnon.dk/design-your-pricing-and-tools-so-you-can-adapt-it-later/)
 
 ## Pricing Open Source
+- [How we monetized our open source devtool?] (https://posthog.com/blog/open-source-business-models)
 - [A Standard Pricing Model for Open Core](https://thenewstack.io/a-standard-pricing-model-for-open-core/)
 
 ## Pricing Research
