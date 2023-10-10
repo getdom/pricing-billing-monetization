@@ -49,7 +49,6 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [Usage-Based Pricing: What SaaS Companies Need to Know](https://baremetrics.com/blog/usage-based-pricing)
 - [How Usage-Based Pricing Benefits SaaS Providers and Their Customers](https://blog.2checkout.com/the-importance-of-usage-based-pricing-in-saas/)
 - [The Benefits of a Usage-Based Pricing Model](https://saasoptics.com/blog/benefits-of-a-usage-based-pricing-model/)
-- [Usage-based pricing benchmarks and best practices](https://www.maxio.com/resources/usage-based-pricing-report)
 - [Linear, volumetric, or bundling: Which type of usage-based pricing is right for you?](https://www.bvp.com/atlas/linear-volumetric-or-bundling-which-type-of-usage-based-pricing-is-right-for-you)
 
     #### Sales Commissions in a Usage Based Pricing World
@@ -66,7 +65,6 @@ Would you like to participate? Feel free to make a pull request and share your b
   - [Guide: Maximizing freemium growth with pricing](https://almanac.io/docs/guide-maximizing-freemium-growth-with-pricing-f123383ca150b5b6aa65d5a2a31782d1)
   - [Free Trial vs Freemium: Breaking down the Pros & Cons](https://www.lemonsqueezy.com/blog/free-trial-vs-freemium)
   - [Freemium Pricing: Customer Acquisition Hero or Revenue Killer?](https://www.eleken.co/blog-posts/freemium-pricing-customer-acquisition-hero-or-revenue-killer)
-  - [The SaaS Freemium Model: Great for Acquisition, Not for Revenue](https://www.profitwell.com/recur/all/state-of-freemium)
   - [Is the Freemium Business Model Right for Your SaaS?](https://userpilot.com/blog/freemium-saas/)
   - [SaaS Pricing: When to Use a Freemium Model](https://www.lightercapital.com/blog/when-to-use-a-freemium-offering-for-saas)
   #### Examples
