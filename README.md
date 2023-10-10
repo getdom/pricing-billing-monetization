@@ -13,6 +13,7 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [Pricing your SaaS product](https://www.lennysnewsletter.com/p/saas-pricing-strategy)
 - [Bottom Up Pricing & Packaging: Let the User Journey Be Your Guide](https://a16z.com/2021/03/11/bottom-up-pricing-packaging-let-the-user-journey-be-your-guide/)
 - [Startup Pricing 101 with YC](https://www.ycombinator.com/library/6h-startup-pricing-101)
+- [The Art of SaaS Pricing for Early-Stage Founders](https://www.speedinvest.com/blog/saas-pricing-strategies)
 
 ## Monetization
 - [What is the difference between Pricing and Monetization?](https://www.pricinginnovations.com/single-post/pricing-vs-monetization)
@@ -25,10 +26,18 @@ Would you like to participate? Feel free to make a pull request and share your b
   - [Guide to SaaS Pricing Models and Strategies](https://saasholic.com/guide-to-saas-pricing-models-and-strategies-2f43a5438cb3/)
   - [SaaS pricing models 101 — the ultimate guide to picking the best pricing strategy for your product](https://www.rst.software/blog/saas-pricing-models-101-the-ultimate-guide-to-picking-the-best-pricing-strategy-for-your-product)
   - [Pricing a SaaS: Models, Strategies & Hacks](https://www.saastitute.com/blog/saas-pricing-models-and-strategies)
+  - [Which pricing model you should choose](https://www.getlago.com/blog/which-pricing-model-should-you-choose)
+  - [Five strategies to strengthen software pricing models](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-art-of-software-pricing-unleashing-growth-with-data-driven-insights)
+  - [Founder’s Cheat Sheet to SaaS Pricing Models](https://www.custify.com/blog/saas-pricing-model-strategies/)
+  - [The Best and Worst SaaS Pricing Models](https://www.insight2profit.com/the-best-and-worst-saas-pricing-models/)
+  - [11 Examples of SaaS Pricing Done Right](https://www.toplyne.io/blog/11-examples-of-saas-pricing-done-right)
   #### Details
   - [Per Seat or Per User](https://tomtunguz.com/seat-vs-usage-based-pricing/)
   - [Flat Rate](https://www.profitwell.com/recur/all/flat-rate-pricing)
   - [Usage-Based](https://offers.openviewpartners.com/usage-based-pricing-playbook)
+  - [Feature pricing](https://www.cloudzero.com/blog/feature-pricing)
+  - [Tiered Pricing vs. Volume Pricing](https://churnkey.co/blog/tiered-volume-pricing-strategy-models-examples/)
+  - [Hybrid Pricing](https://www.linkedin.com/pulse/rise-hybrid-pricing-strategies-saas-david-wise/)
 
 ## Focus on Usage Based Pricing
 - [Predictable Revenue Forecasting is Possible with Usage-Based Pricing](https://openviewpartners.com/blog/predictable-revenue-forecasting-usage-based-pricing/)
@@ -77,6 +86,8 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [When and How to Raise Prices for SaaS Products￼](https://comfi.app/blog/saas-price-increase)
 - [B2B SaaS pricing models: No time like the present to raise prices](https://www.t2d3.pro/learn/saas-raising-pricing-strategy)
 - [How to change your SaaS product pricing](https://www.priceintelligently.com/blog/changing-saas-pricing)
+- [Pricing - Our only Growth Hack at Qonto](https://www.getlago.com/blog/pricing-my-only-growth-hack-at-qonto)
+- [How to announce a Price Increase (without tanking your sales)](https://blog.close.com/how-to-successfully-increase-your-saas-prices/)
 
 ## Interviews
 - [How to run your SaaS pricing project](https://wraptext.equals.app/how-to-run-your-saas-pricing-project/)
@@ -106,10 +117,13 @@ Would you like to participate? Feel free to make a pull request and share your b
 - [How To Monetize Products: Optimizing Your Pricing Strategy As A Growth Lever](https://www.forbes.com/sites/rebeccasadwick/2020/05/18/pricing/?sh=e5a813f1c49e)
 - [How to design a pricing page](https://arnon.dk/design-your-pricing-and-tools-so-you-can-adapt-it-later/)
 
-## Pricing Open Source
+## Monetizing Open Source
 - [How we monetized our open source devtool?](https://posthog.com/blog/open-source-business-models)
 - [A Standard Pricing Model for Open Core](https://thenewstack.io/a-standard-pricing-model-for-open-core/)
+- [The Secrets of Successful Open Source business models](https://insights.blossomcap.com/successful-open-source-business-models-2709e831e38a)
+- [Monetizing Open Source: Business Models That Generate Billions](https://www.forbes.com/sites/glennsolomon/2020/09/15/monetizing-open-source-business-models-that-generate-billions/?sh=1b71911334fd)
 
 ## Pricing Research
 - [Conducting Pricing Research & Experimentation](https://www.menlovc.com/blog/conducting-pricing-research-and-experimentation)
+	
 []()
